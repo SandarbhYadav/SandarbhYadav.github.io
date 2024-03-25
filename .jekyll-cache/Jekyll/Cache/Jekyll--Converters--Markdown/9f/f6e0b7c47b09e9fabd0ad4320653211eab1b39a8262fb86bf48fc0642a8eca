@@ -1,4 +1,4 @@
-I"-U<style>
+I"šT<style>
 .jumbotron{
     padding:3%;
     padding-bottom:10px;
@@ -45,7 +45,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/Gamma Ray AGNs: Estimating Redshifts and Blazar Classification using Neural Networks with smart initialization and self-supervised learning.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/Gamma Ray AGNs: Estimating Redshifts and Blazar Classification using Neural Networks with smart initialization and self-supervised learning.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
@@ -124,7 +124,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/Gamma-ray blazar classification using machine learning with advanced weight initialization and self-supervised learning techniques.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/Gamma-ray blazar classification using machine learning with advanced weight initialization and self-supervised learning techniques.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
@@ -209,7 +209,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/Estimation of redshift and associated uncertainty of FermiLAT extra-galactic sources with Deep Learning.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/Estimation of redshift and associated uncertainty of FermiLAT extra-galactic sources with Deep Learning.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
@@ -294,7 +294,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/An Image Processing approach to identify solar plages observed at 393.37 nm by the Kodaikanal Solar Observatory.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/An Image Processing approach to identify solar plages observed at 393.37 nm by the Kodaikanal Solar Observatory.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
@@ -379,7 +379,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/VaTEST. II. Statistical Validation of 11 TESS-detected Exoplanets Orbiting K-type Stars.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/VaTEST. II. Statistical Validation of 11 TESS-detected Exoplanets Orbiting K-type Stars.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
@@ -465,7 +465,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/Exploring short-term optical variability of blazars using TESS.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/Exploring short-term optical variability of blazars using TESS.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
@@ -550,7 +550,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/Galaxy classification: a deep learning approach for classifying Sloan Digital Sky Survey images.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/Galaxy classification: a deep learning approach for classifying Sloan Digital Sky Survey images.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 

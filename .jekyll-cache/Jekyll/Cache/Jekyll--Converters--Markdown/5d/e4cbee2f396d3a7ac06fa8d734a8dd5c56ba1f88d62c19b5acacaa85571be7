@@ -1,15 +1,15 @@
-I"¸	<h2 id="about">About</h2>
+I":	<h2 id="about">About</h2>
 
 <div class="jumbotron">
   <div class="row">
     <div class="col-sm-4">
-      <p><img src="http://localhost:4000/images/profilepic.jpg" width="100%" style="max-width:250px" /></p>
+      <p><img src="/images/profilepic.jpg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-8 col-xs-12">
       <h3>Sandarbh Yadav</h3>
       <h4><i>Sandarbh PMRF Research Scholar, IIT Bombay</i></h4>
       <p><a href="mailto:apexpacesandy@gmail.com" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
-   <a href="http://localhost:4000/cv/Resume.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> 
+   <a href="/cv/Resume.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> 
    <a href="https://scholar.google.co.in/citations?user=XOqiLMQAAAAJ&amp;hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> 
    <a href="https://github.com/SandarbhYadav" target="_blank"><i class="fa fa-github-square fa-3x"></i></a></p>
 
@@ -70,7 +70,7 @@
 <div class="jumbotron">
   <h4>Sponsors</h4>
   <div style="display:block; text-align:center; margin-left:auto; margin-right:auto;">
-    <p><a href="https://www.nsf.gov/" target="_blank"><img src="http://localhost:4000/images/NSF.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.energy.gov/" target="_blank"><img src="http://localhost:4000/images/doe_logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.onr.navy.mil/" target="_blank"><img src="http://localhost:4000/images/onr_logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.nih.gov/" target="_blank"><img src="http://localhost:4000/images/NIH-logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
+    <p><a href="https://www.nsf.gov/" target="_blank"><img src="/images/NSF.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.energy.gov/" target="_blank"><img src="/images/doe_logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.onr.navy.mil/" target="_blank"><img src="/images/onr_logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.nih.gov/" target="_blank"><img src="/images/NIH-logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
   </div>
 </div>
 :ET
