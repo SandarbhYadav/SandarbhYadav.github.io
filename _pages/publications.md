@@ -15,25 +15,25 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
     margin-bottom:30px;
 }
 </style>
-<!--
-<div class="jumbotron">
+#<!--
+#<div class="jumbotron">
 ### Preprints
-{% bibliography --query @unpublished %}
-</div>
-//-->
-<div class="jumbotron">
+#{% bibliography --query @unpublished %}
+#</div>
+#//-->
+#<div class="jumbotron">
 ### Extended Abstracts
-{% bibliography --query @abstract %}
-</div>
+#{% bibliography --query @abstract %}
+#</div>
 
-<div class="jumbotron">
+#<div class="jumbotron">
 ### Refereed journal articles
-{% bibliography --query @article %}
-</div>
+#{% bibliography --query @article %}
+#</div>
 
-<!--
-<div class="jumbotron">
+#<!--
+#<div class="jumbotron">
 ### Refereed conference proceedings
-{% bibliography --query @inproceedings %}
-</div>
-//-->
+#{% bibliography --query @inproceedings %}
+#</div>
+#//-->
