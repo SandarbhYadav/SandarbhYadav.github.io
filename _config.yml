@@ -27,7 +27,7 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: publications
+  # - name: publications
   # - name: research
   # - name: projects
   # - name: collaborators
